@@ -2,5 +2,5 @@
 # IV SEMESTRE
 # INGENIERIA DE SOFTWARE I
 
-Edison Bernal Meneses
+Edison Bernal Meneses,
 William Zambrano 
